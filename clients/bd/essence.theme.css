@@ -11,7 +11,7 @@
 
 /* || ➕ Addons */
 @import url('https://discord-extensions.github.io/essence/src/vendors/friends-grid.css');
-@import url('https://discord-extensions.github.io/essence/src/vendors/horizontal-server-list.css');
+/* @import url('https://discord-extensions.github.io/essence/src/vendors/horizontal-server-list.css'); */
 @import url('https://discord-extensions.github.io/essence/src/vendors/iconsax-discord.css');
 
 /* || 🎨 Theme Palettes
@@ -29,8 +29,8 @@
 
 :root {
     --essence-app-rounding: 6px;
-    --essence-app-padding: 18px;
+    --essence-app-padding: px;
     --essence-default-rounding: 6px;
     --essence-default-padding: 10px;
-    --essence-app-background-image: none; */ /* uncomment this if you want to remove the background image
+    --essence-app-background-image: none;  /* uncomment this if you want to remove the background image
 }
